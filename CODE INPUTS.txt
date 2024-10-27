@@ -1,0 +1,30 @@
+Enter number of doctors: 2
+Enter doctor's name: Dr. Smith
+Enter doctor's specialty: Cardiology
+Enter doctor's name: Dr. Jones
+Enter doctor's specialty: Neurology
+Enter number of patients: 2
+Enter patient's name: Alice
+Enter patient's age: 30
+Enter patient's ailment: Fever
+Enter patient's name: Bob
+Enter patient's age: 40
+Enter patient's ailment: Headache
+Scheduling appointment for Patient 1:
+Enter appointment date and time (YYYY-MM-DDTHH:MM): 2024-10-16T11:00
+Select doctor (1-2): 1
+Appointment scheduled successfully.
+Scheduling appointment for Patient 2:
+Enter appointment date and time (YYYY-MM-DDTHH:MM): 2024-10-17T12:00
+Select doctor (1-2): 2
+Appointment scheduled successfully.
+
+Viewing Appointments:
+Appointment: 2024-10-16T11:00
+Patient Name: Alice, Age: 30, Ailment: Fever
+Doctor Name: Dr. Smith, Specialty: Cardiology
+------------------------------
+Appointment: 2024-10-17T12:00
+Patient Name: Bob, Age: 40, Ailment: Headache
+Doctor Name: Dr. Jones, Specialty: Neurology
+------------------------------
